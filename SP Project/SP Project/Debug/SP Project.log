@@ -1,0 +1,25 @@
+﻿  Menu.cpp
+  main.cpp
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(105,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(110,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(116,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(116,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(134,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(139,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(155,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(160,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(160,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(170,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\Misc.h(182,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\DELL\Source\Repos\SP Project\SP Project\main.cpp(25,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\DELL\Source\Repos\SP Project\SP Project\main.cpp(25,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  SP Project.vcxproj -> C:\Users\DELL\Source\Repos\SP Project\Debug\SP Project.exe
